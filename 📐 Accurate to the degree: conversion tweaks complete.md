@@ -39,16 +39,15 @@ CSS3 – Styling and layout
 JavaScript (Vanilla JS) – Functionality and interactivity
 
 
-## **📸 Screenshots!**[Screenshot 2025-05-06 233649](https://github.com/user-attachments/assets/5711a891-cd6e-4649-b06d-64d98ae48f8b)
+## **📸 Screenshots!**
+
+![Screenshot 2025-05-06 000911](https://github.com/user-attachments/assets/e01bd30b-ae60-43af-9fd7-2f8c513b4639)
+
 
 🚀 Getting Started
 
 To try it out locally:
 
-
-## **Clone the repository:**
-
-git clone https://github.com/yourusername/interest-calculator.git
 
 
 ## **Navigate to the project folder:**
